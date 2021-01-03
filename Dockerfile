@@ -1,3 +1,3 @@
 FROM oryd/kratos:latest
-COPY .kratos.yml /ory/home
+COPY .kratos.yaml /ory/home
 COPY identity.traits.schema.json /ory/home
