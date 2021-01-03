@@ -1,3 +1,4 @@
+dsn: memory
 session:
   lifespan: 24h
 serve:
